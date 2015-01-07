@@ -1,0 +1,4 @@
+../Dev-Cpp/MinGW32/lib/libpthread.a
+../Dev-Cpp/MinGW32/lib/libopengl32.a
+../Dev-Cpp/MinGW32/lib/libglu32.a
+../Dev-Cpp/MinGW32/lib/libglut32.a
